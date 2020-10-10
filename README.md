@@ -38,9 +38,10 @@ python3 keylogger.py
 
 ## Python to Elf file  
 
+```bash
 pip install pyinstaller
 pyinstaller --noconsole --onefile keylogger.py 
-
+```
 
 ## Bugs and enhancements
 
