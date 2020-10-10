@@ -35,11 +35,11 @@ chmod -R 755 keylogger.py
 python3 keylogger.py
 
 ```
-##Python to Elf file  
 
-```pip install pyinstaller
-   pyinstaller --noconsole --onefile keylogger.py 
-```
+## Python to Elf file  
+
+pip install pyinstaller
+pyinstaller --noconsole --onefile keylogger.py 
 
 
 ## Bugs and enhancements
