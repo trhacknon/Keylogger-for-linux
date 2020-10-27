@@ -1,7 +1,5 @@
 # 🍀 &nbsp; Keylogger For Linux  &nbsp;  🍀
 
-#### Written by Hulya Karabag 
-#### Version 1.0.0
 
 
 Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
